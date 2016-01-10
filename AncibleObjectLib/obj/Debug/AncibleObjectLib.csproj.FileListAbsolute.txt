@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\ProjectAncible\AncibleObjectLib\bin\Debug\AncibleObjectLib.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\ProjectAncible\AncibleObjectLib\bin\Debug\AncibleObjectLib.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\ProjectAncible\AncibleObjectLib\bin\Debug\CollisionEngineLib.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\ProjectAncible\AncibleObjectLib\bin\Debug\GameGraphicsLib.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\ProjectAncible\AncibleObjectLib\bin\Debug\CollisionEngineLib.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\ProjectAncible\AncibleObjectLib\bin\Debug\GameGraphicsLib.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\ProjectAncible\AncibleObjectLib\obj\Debug\AncibleObjectLib.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\ProjectAncible\AncibleObjectLib\obj\Debug\AncibleObjectLib.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\ProjectAncible\AncibleObjectLib\obj\Debug\AncibleObjectLib.pdb
